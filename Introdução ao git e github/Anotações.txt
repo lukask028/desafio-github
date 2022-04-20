@@ -2,3 +2,11 @@ link para download do git: https://git-scm.com/download/win
 
 Git -> É um sistema de versionamento de código distribuído. 
 Git bash -> é um terminal extendido para otimizar o uso do git. 
+
+Comandos importantes do git bash: 
+
+git init -> cria um repositorio local 
+
+git add -> adiciona o repositorio ao diretório 
+
+git commit -> passa o repositorio local para a nuvem
