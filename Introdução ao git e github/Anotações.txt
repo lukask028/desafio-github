@@ -1,0 +1,4 @@
+link para download do git: https://git-scm.com/download/win
+
+Git -> É um sistema de versionamento de código distribuído. 
+Git bash -> é um terminal extendido para otimizar o uso do git. 
